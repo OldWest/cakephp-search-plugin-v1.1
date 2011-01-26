@@ -1,0 +1,14 @@
+************************* INSTALLATION INSTRUCTIONS ****************************
+
+1. Download entire repository.
+
+2. Create table w/ tables.sql in root directory.
+
+3. Update cake core path in: webroot/index.php to your local cake core path. This is an absolute path.
+
+4. Update your config/database.php to reflect your database user/pass etc.
+
+5. Watch this video on an overview of all the code in the project:
+http://www.youtube.com/watch?v=FAVuLXFVaCw
+
+Good luck!
